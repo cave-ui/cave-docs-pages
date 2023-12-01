@@ -1,3 +1,3 @@
-Accordion
+# Accordion
 
 <Showcase title="Button" as="h2" component={<Button />} />
