@@ -1,1 +1,3 @@
 Accordion
+
+<Showcase code={<Button />} />
